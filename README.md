@@ -10,4 +10,9 @@ including how to run it.
 
 There are [resources](https://www.makeareadme.com) available to help you write a good README file.
 
+# Week 1 Practical - Todo API
 
+## how it work
+```bash
+poetry install
+poetry run flask --app todo run -p 6400
